@@ -29,6 +29,7 @@ function App() {
           <i>In short - whatever helps someone's day become a little easier and/or a little brighter.</i>
         </b>
       </p>
+      <h2>You are welcome to reach out to me!</h2>
       <a className='App-link' href='https://www.twitter.com/pauljstales' target='_blank' rel='noopener noreferrer'>
         My twitter.
       </a>
